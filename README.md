@@ -1,9 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-
-**Kevogich/Kevogich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here are some things about me :
 
 - 🔭 I’m interested in TensorFlow
 - 🌱 I’m currently learning more on Docker
